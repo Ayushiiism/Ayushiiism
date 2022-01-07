@@ -8,13 +8,7 @@
   <li>Data Structure</li>
 </ul>
 <hr>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushiiism&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-<br>
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ayushiiism&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushiiism&layout=compact&theme=cobalt&hide_border=true" />
+<h3 align="left">Reach Out :-</h3>
 
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Ayushiism)
@@ -24,6 +18,16 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=0D76A8)](https://www.youtube.com/channel/UCCdkjrdWPHdjKz3bjbpJqfg)
 
 <hr>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushiiism&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+
+<br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Ayushiiism&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushiiism&layout=compact&theme=cobalt&hide_border=true" />
+
+
 
 
 <h3 align="left">Skills :-</h3>
