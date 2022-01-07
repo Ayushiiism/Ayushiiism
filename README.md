@@ -1,4 +1,4 @@
-h1 align="left">Hey There !</h1>
+<h1 align="left">Hey There !</h1>
 
 <p>My name is Ayush Tripathi, and here are a few things I'm working on:</p>
 
