@@ -22,3 +22,5 @@
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Profile-informational?style=flat&logo=youtube&logoColor=white&color=0D76A8)](https://www.youtube.com/channel/UCCdkjrdWPHdjKz3bjbpJqfg)
 
 <hr>
+
+<h3 align="left">Skills :-</h3>
