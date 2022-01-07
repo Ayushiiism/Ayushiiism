@@ -1,5 +1,13 @@
-### Hi there 👋
+h1 align="left">Hey There !</h1>
 
+<p>My name is Ayush Tripathi, and here are a few things I'm working on:</p>
+
+<ul>
+  <li>Web Development</li>
+  <li>JavaScript and It's Librabry</li>
+  <li>Data Structure</li>
+</ul>
+<hr>
 <!--
 **Ayushiiism/Ayushiiism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
